@@ -32,6 +32,11 @@ With that Notesheet, i embedded the respective clause, interlinking with various
 
 Ths document along with its supporting documents have been organized under following four docs, with placeholders to replace your correspnding information into it and utilize. However, it will certainly take time and effort to understand the clauses of the documents, as your confidence matters when you present a case. and that confidence comes when you are dead sure about what you are saying. 
 
-And yes, I got the certificate issued, and further I have been sharing these docs to multiple tehsildars and SDM's of my area :D
+**And yes, I got the certificate issued** and further I have been sharing these docs to multiple tehsildars and SDM's of my area and many others:D,
+uploading it on Github, is yet an attempt to raise awareness about rights .
+
+This document is by far my interpretation of things, however only till date, if you wish to use this information, please use/don;t use under your own wisdom. I am no where responsible for any misunderstanding , vagueness unintentionally added to the document. It is just a draft for reference , nothing more. 
+
+
 
 Thankyou. 
